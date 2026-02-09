@@ -31,6 +31,21 @@ The production BECK-LITH SDK with:
 
 📧 Enterprise inquiries: becker.direction@gmail.com (NDA required)
 
+## 📦 How to Run the Demo
+
+**Requirements:**
+- Windows PowerShell 5.1+
+- Node.js (only for initial setup — not used in demo)
+
+**Steps:**
+powershell
+# Clone repository
+git clone https://github.com/contract1/beck-lith-sdk-public.git
+cd beck-lith-sdk-public
+
+# Run the demo
+.\beck-lith-public.ps1
+
 ## Legal Notice
 
 - Public version: MIT License

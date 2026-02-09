@@ -37,5 +37,4 @@ The production BECK-LITH SDK with:
 - Enterprise middleware: Exclusive property of Marcelo Becker, all rights reserved © 2026
 - No third-party IP: Developed 100% independently using personal resources only
 
-© 2026 Marcelo Becker, Brazilian smart contracts engineer
-Rio de Janeiro, Brazil
+© 2026 Marcelo Becker, Brazilian smart contracts engineer | Rio de Janeiro, Brazil

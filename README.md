@@ -41,6 +41,8 @@ The production BECK-LITH SDK with:
 powershell
 # Clone repository
 git clone https://github.com/contract1/beck-lith-sdk-public.git
+
+# Main file
 cd beck-lith-sdk-public
 
 # Run the demo

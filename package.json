@@ -1,0 +1,20 @@
+﻿{
+  "name": "beck-lith-sdk-public",
+  "version": "0.1.0",
+  "description": "Latin America's first PQC SDK for protection in private e public blockchains networks using ERC-827 tokens standard (public version) | NIST FIPS 203/204 compliant",
+  "main": "demo.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "post-quantum",
+    "NIST",
+    "Dilithium",
+    "ERC-827",
+    "Latin-America",
+    "blockchain"
+  ],
+  "author": "Marcelo Becker <becker.direction@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

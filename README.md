@@ -12,7 +12,7 @@ This repository contains ONLY a public version of NIST-standard Dilithium + Kybe
 - NIST compliance documentation
 
 # What's NOT included (Enterprise Layer):
-- Hyperledger Fabric ? Ethereum middleware bridge
+- Hyperledger Fabric and Ethereum middleware bridge
 - PartnerID isolation at chaincode level
 - Gas-optimized on-chain verification
 - Threat monitoring & compliance reporting
@@ -27,7 +27,7 @@ The production BECK-LITH SDK with:
 - 24/7 threat monitoring & compliance reporting
 - NYDFS/MiCA regulatory alignment
 
-...is available under strict NDA for financial institutions (banks, central banks, custodians).
+...is available under strict NDA for financial institutions (banks, central banks, custodians services, financial institutions).
 
 # Enterprise inquiries: becker.direction@gmail.com (NDA required)
 

@@ -6,12 +6,12 @@
 
 This repository contains ONLY a public version of NIST-standard Dilithium signatures applied to ERC-827 token transfers. 
 
-? What's included:
+# What's included:
 - Basic Dilithium signature generation (NIST reference)
 - Educational demo script
 - NIST compliance documentation
 
-? What's NOT included (Enterprise Layer):
+# What's NOT included (Enterprise Layer):
 - Hyperledger Fabric ? Ethereum middleware bridge
 - PartnerID isolation at chaincode level
 - Gas-optimized on-chain verification
@@ -42,7 +42,7 @@ powershell
 # Clone repository
 git clone https://github.com/contract1/beck-lith-sdk-public.git
 
-# Main file
+# File
 cd beck-lith-sdk-public
 
 # Run the demo

@@ -2,7 +2,7 @@
 
 > Latin America's first PQC SDK for protection in private and public blockchain networks using ERC-827 tokens standard (public version) | DEMO ONLY — NOT FOR PRODUCTION
 
-## Critical Notice
+# Critical Notice
 
 This repository contains ONLY a public version of NIST-standard Dilithium signatures applied to ERC-827 token transfers. 
 
@@ -18,7 +18,7 @@ This repository contains ONLY a public version of NIST-standard Dilithium signat
 - Threat monitoring & compliance reporting
 - SLA-backed enterprise support
 
-## Enterprise Version
+# Enterprise Version
 
 The production BECK-LITH SDK with:
 - Fabric middleware integration
@@ -31,7 +31,7 @@ The production BECK-LITH SDK with:
 
 # Enterprise inquiries: becker.direction@gmail.com (NDA required)
 
-## How to Run the Demo
+# How to Run the Demo
 
 **Requirements:**
 - Windows PowerShell 5.1+
@@ -48,7 +48,7 @@ cd beck-lith-sdk-public
 # Run the demo
 .\beck-lith-public.ps1
 
-## Legal Notice
+# Legal Notice
 
 - Public version: MIT License
 - Enterprise middleware: Exclusive property of Marcelo Becker, all rights reserved © 2026

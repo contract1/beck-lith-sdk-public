@@ -40,7 +40,7 @@ The production BECK-LITH SDK with:
 **Steps:**
 powershell
 # Clone repository
-git clone https://github.com/contract1/beck-lith-sdk-public.git
+git clone: https://github.com/contract1/beck-lith-sdk-public.git
 
 # File
 cd beck-lith-sdk-public

@@ -7,7 +7,7 @@
 This repository contains ONLY a public version of NIST-standard Dilithium + Kyber signatures applied to token transfers in blockchains network. 
 
 # What's included:
-- Basic Dilithium signature generation (NIST reference)
+- Basic Dilithium + Kyber signature generation (NIST reference)
 - Educational demo script
 - NIST compliance documentation
 

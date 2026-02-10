@@ -4,7 +4,7 @@
 
 # Critical Notice
 
-This repository contains ONLY a public version of NIST-standard Dilithium + Kyber signatures applied to ERC-827 token transfers. 
+This repository contains ONLY a public version of NIST-standard Dilithium + Kyber signatures applied to token transfers in blockchains network. 
 
 # What's included:
 - Basic Dilithium signature generation (NIST reference)

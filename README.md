@@ -33,7 +33,7 @@ The production BECK-LITH SDK with:
 
 **Requirements:**
 - Windows PowerShell 5.1+
-- Node.js (only for initial setup â€” not used in demo)
+- Node.js (only for initial setup not used in demo)
 
 **Steps:**
 powershell

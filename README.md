@@ -54,7 +54,7 @@ cd beck-lith-sdk-public
 - Enterprise middleware: Exclusive property of Marcelo Becker, all rights reserved © 2026
 - No third-party IP: Developed 100% independently using personal resources only
 
-© 2026 Marcelo Becker, Brazilian smart contracts engineer | Rio de Janeiro, Brazil
+© 2026 Marcelo Becker, Brazilian smart contracts engineer and post-quantum cryptography researcher | Rio de Janeiro, Brazil.
 
 ## About the Developer
 

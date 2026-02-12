@@ -1,0 +1,6 @@
+NIST License Statement
+
+This software was developed by employees of the National Institute of Standards and Technology (NIST), an agency of the Federal Government.
+Pursuant to title 17 United States Code Section 105, works of NIST employees are not subject to copyright protection in the United States.
+This software is freely redistributable and is provided "AS IS" without warranty of any kind. Users bear the risk of using it.
+NIST assumes no responsibility whatsoever for its use by other parties, and makes no guarantees about its fitness for any purpose.

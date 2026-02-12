@@ -46,13 +46,14 @@ cd beck-lith-sdk-public
 # Run the demo
 .\beck-lith-public.ps1
 
-# Legal Notice
+## Licensing
+- **Wrapper code:** MIT License (see LICENSE)
+- **NIST reference implementations:** CC0 Public Domain (see NIST-LICENSE)
+- **Enterprise middleware:** Exclusive property of Marcelo Becker, all rights reserved © 2026
 
-- Public version: MIT License
-- Enterprise middleware: Exclusive property of Marcelo Becker, all rights reserved © 2026
-- No third-party IP: Developed 100% independently using personal resources only
-
-© 2026 Marcelo Becker, Brazilian smart contracts engineer and post-quantum cryptography researcher | Rio de Janeiro, Brazil.
+## Legal Notice
+Public version: MIT License (for wrapper code) + NIST CC0 License (for cryptographic reference implementations)
+Enterprise middleware: Exclusive property of Marcelo Becker, all rights reserved © 2026
 
 ## About the Developer
 

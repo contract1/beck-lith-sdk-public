@@ -62,4 +62,4 @@ Brazilian smart contracts engineer and post-quantum cryptography researcher. Glo
 
 **Developer of BECK-LITH:** Latin America's first post-quantum middleware for blockchain transaction security.
 
-[ORCID Profile](https://orcid.org/0009-0007-3549-6455) | [Zenodo Publication](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18615507.svg)](https://doi.org/10.5281/zenodo.18615507)

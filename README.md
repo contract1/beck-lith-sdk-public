@@ -29,8 +29,6 @@ The production BECK-LITH SDK with:
 
 ...is available under strict NDA for financial institutions (banks, central banks, custodians services, financial institutions).
 
-# Enterprise inquiries: becker.direction@gmail.com (NDA required)
-
 # How to Run the Demo
 
 **Requirements:**

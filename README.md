@@ -55,3 +55,11 @@ cd beck-lith-sdk-public
 - No third-party IP: Developed 100% independently using personal resources only
 
 © 2026 Marcelo Becker, Brazilian smart contracts engineer | Rio de Janeiro, Brazil
+
+## About the Developer
+
+Brazilian smart contracts engineer and post-quantum cryptography researcher. Globally certified in Digital Asset Management and Tokenization by the University of Nicosia (in partnership with the European Union) and in Hyperledger private blockchain by the Linux Foundation.
+
+**Developer of BECK-LITH:** Latin America's first post-quantum middleware for blockchain transaction security.
+
+[ORCID Profile](https://orcid.org/0009-0007-3549-6455) | [Zenodo Publication](https://doi.org/10.5281/zenodo.XXXXXXX)
